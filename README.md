@@ -9,19 +9,31 @@ The dataset used in this project is:
 steam_games_dataset.csv
 
 It contains information about Steam games, including:
+
 Game name 🎮
+
 Price 💰
+
 Positive & negative reviews 👍👎
+
 Number of owners 👥
+
 Current players (CCU) 🔥
+
 Developer & publisher 🏢
+
 🛠️ Technologies Used
 
 The project uses the following tools and libraries:
+
 Python 🐍
+
 Pandas (data manipulation)
+
 NumPy (numerical operations)
+
 Matplotlib (visualization)
+
 Seaborn (advanced visualization)
 
 🔍 Project Workflow
