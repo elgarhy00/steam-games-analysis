@@ -5,37 +5,23 @@ This project focuses on analyzing a dataset of Steam games to uncover insights a
 Using Python and data analysis libraries, we explore patterns and relationships within the dataset 📊.
 
 📂 Dataset
-
 The dataset used in this project is:
-
 steam_games_dataset.csv
 
 It contains information about Steam games, including:
-
 Game name 🎮
-
 Price 💰
-
 Positive & negative reviews 👍👎
-
 Number of owners 👥
-
 Current players (CCU) 🔥
-
 Developer & publisher 🏢
-
 🛠️ Technologies Used
 
 The project uses the following tools and libraries:
-
 Python 🐍
-
 Pandas (data manipulation)
-
 NumPy (numerical operations)
-
 Matplotlib (visualization)
-
 Seaborn (advanced visualization)
 
 🔍 Project Workflow
@@ -91,7 +77,7 @@ owners_numeric → Converted ownership range to numeric
 
 total_reviews → Positive + Negative reviews
 
-positive_ratio → نسبة التقييمات الإيجابية
+positive_ratio → Percentage of positive reviews
 
 6. Advanced Analysis 🚀
 🥇 Top 3 Games Analysis
@@ -151,8 +137,6 @@ Run all cells step by step ▶️
 Add machine learning models 🤖
 
 Build a dashboard (Power BI / Tableau)
-
-Perform time-series analysis if data is available ⏳
 
 👨‍💻 Author
 Youssef Abdelkader
